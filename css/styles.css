@@ -2,3 +2,25 @@
   color: red;
   font-style: italic;
 }
+
+body {
+  text-align: center;
+}
+
+.best {
+  border: 30px solid gold;
+}
+
+img {
+  border-radius: 50%;
+  width: 600px;
+  height: 600px;
+  margin: 20px 0px 100px 0px;
+}
+
+h4 {
+  position: relative;
+  top: 10px;
+  left: 300px;
+  color: gold;
+}
